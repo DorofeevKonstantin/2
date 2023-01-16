@@ -1,0 +1,12 @@
+static libraries :
+utils.c -> utils.obj
+		-> .lib / .a
+link ->
++ : ready to use
+- : big size
+
+
+dynamic libraries :
+math.c -> .lib? + math.dll / .so
++ : small size
+- : problems with distr, DLL HELL

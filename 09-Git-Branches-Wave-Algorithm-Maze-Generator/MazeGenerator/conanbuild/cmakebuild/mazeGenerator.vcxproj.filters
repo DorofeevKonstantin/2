@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\_main\_univer\Documents\Chelgu\PP\Prog\C\rep\09-Git-Branches-Wave-Algorithm-Maze-Generator\MazeGenerator\conanbuild\src\cell.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\_main\_univer\Documents\Chelgu\PP\Prog\C\rep\09-Git-Branches-Wave-Algorithm-Maze-Generator\MazeGenerator\conanbuild\src\grid.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\_main\_univer\Documents\Chelgu\PP\Prog\C\rep\09-Git-Branches-Wave-Algorithm-Maze-Generator\MazeGenerator\conanbuild\src\main.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\_main\_univer\Documents\Chelgu\PP\Prog\C\rep\09-Git-Branches-Wave-Algorithm-Maze-Generator\MazeGenerator\conanbuild\src\INIReader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\_main\_univer\Documents\Chelgu\PP\Prog\C\rep\09-Git-Branches-Wave-Algorithm-Maze-Generator\MazeGenerator\conanbuild\src\cell.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\_main\_univer\Documents\Chelgu\PP\Prog\C\rep\09-Git-Branches-Wave-Algorithm-Maze-Generator\MazeGenerator\conanbuild\src\grid.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\_main\_univer\Documents\Chelgu\PP\Prog\C\rep\09-Git-Branches-Wave-Algorithm-Maze-Generator\MazeGenerator\conanbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{EF49232A-E389-30EC-897A-5439490C9F71}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{281A7475-B875-33FA-80F6-F4AE9D35F6DC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
